@@ -1,0 +1,852 @@
+debug 2025/02/07 16:36:13 Download state loaded successfully.
+debug 2025/02/07 16:38:23 Download state saved successfully.
+debug 2025/02/07 16:38:24 Download state loaded successfully.
+debug 2025/02/07 16:38:36 Download state saved successfully.
+debug 2025/02/07 16:38:37 Download state loaded successfully.
+debug 2025/02/07 16:38:44 Running command: aria2c --enable-rpc=true --rpc-listen-port=41817 --dir /home/punff/Downloads/Sailor/Top.Gear.Polar.Special.HDTV.XviD-BiA.avi magnet:?xt=urn:btih:33F54EC94CAE9440D4371FE56E15FA9B657BA299&dn=Top.Gear.Polar.Special.HDTV.XviD-BiA.avi&tr=&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
+debug 2025/02/07 16:38:46 Fetching download info on port: 41817
+debug 2025/02/07 16:38:46 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:38:49 Fetching download info on port: 41817
+debug 2025/02/07 16:38:49 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 13.76 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:38:52 Fetching download info on port: 41817
+debug 2025/02/07 16:38:52 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:38:55 Fetching download info on port: 41817
+debug 2025/02/07 16:38:55 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 32.00 KB
+Speed: 1.25 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:38:58 Fetching download info on port: 41817
+debug 2025/02/07 16:38:58 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 3.03 MB
+Speed: 1.03 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:01 Fetching download info on port: 41817
+debug 2025/02/07 16:39:01 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 7.34 MB
+Speed: 1.23 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:04 Fetching download info on port: 41817
+debug 2025/02/07 16:39:04 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 11.00 MB
+Speed: 1.23 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:05 Download state saved successfully.
+debug 2025/02/07 16:39:06 Download state loaded successfully.
+debug 2025/02/07 16:39:09 Fetching download info on port: 41817
+debug 2025/02/07 16:39:09 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 19.22 MB
+Speed: 1.48 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:12 Fetching download info on port: 41817
+debug 2025/02/07 16:39:12 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 25.27 MB
+Speed: 1.69 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:15 Fetching download info on port: 41817
+debug 2025/02/07 16:39:15 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 29.89 MB
+Speed: 1.78 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:18 Fetching download info on port: 41817
+debug 2025/02/07 16:39:18 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 34.39 MB
+Speed: 1.72 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:21 Fetching download info on port: 41817
+debug 2025/02/07 16:39:21 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 40.05 MB
+Speed: 1.68 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:24 Fetching download info on port: 41817
+debug 2025/02/07 16:39:24 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 46.16 MB
+Speed: 1.76 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:27 Fetching download info on port: 41817
+debug 2025/02/07 16:39:27 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 53.08 MB
+Speed: 2.05 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:30 Fetching download info on port: 41817
+debug 2025/02/07 16:39:30 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 60.92 MB
+Speed: 2.34 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:33 Fetching download info on port: 41817
+debug 2025/02/07 16:39:33 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 67.39 MB
+Speed: 2.35 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:36 Fetching download info on port: 41817
+debug 2025/02/07 16:39:36 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 74.33 MB
+Speed: 2.36 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:39 Fetching download info on port: 41817
+debug 2025/02/07 16:39:39 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 80.58 MB
+Speed: 2.20 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:39:42 Fetching download info on port: 41817
+debug 2025/02/07 16:39:42 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 88.59 MB
+Speed: 2.35 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:12 Running command: aria2c --enable-rpc=true --rpc-listen-port=42017 --dir /home/punff/Downloads/Sailor/Top_Gear___(BBC_-_Seasons_1_to_17_-_Complete) magnet:?xt=urn:btih:ADBCFAA5F080B14130B0C3C0C6186520D57B7F63&dn=Top Gear   (BBC - Seasons 1 to 17 - Complete)&tr=&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
+debug 2025/02/07 16:40:12 Fetching download info on port: 42017
+debug 2025/02/07 16:40:12 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: 71.28 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:15 Fetching download info on port: 42017
+debug 2025/02/07 16:40:15 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: 71.28 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:18 Fetching download info on port: 42017
+debug 2025/02/07 16:40:18 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: 71.28 GB
+Downloaded: 662.61 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:21 Fetching download info on port: 42017
+debug 2025/02/07 16:40:21 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: 71.28 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:24 Fetching download info on port: 42017
+debug 2025/02/07 16:40:24 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: 71.28 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:27 Fetching download info on port: 42017
+debug 2025/02/07 16:40:27 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: 71.28 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:30 Fetching download info on port: 42017
+debug 2025/02/07 16:40:30 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: 71.28 GB
+Downloaded: 5.27 MB
+Speed: 2.06 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:33 Fetching download info on port: 42017
+debug 2025/02/07 16:40:33 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: 71.28 GB
+Downloaded: 13.20 MB
+Speed: 2.38 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:34 Running command: aria2c --enable-rpc=true --rpc-listen-port=45225 --dir /home/punff/Downloads/Sailor/Top.Gear.Polar.Special.HDTV.XviD-BiA.avi magnet:?xt=urn:btih:33F54EC94CAE9440D4371FE56E15FA9B657BA299&dn=Top.Gear.Polar.Special.HDTV.XviD-BiA.avi&tr=&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
+debug 2025/02/07 16:40:36 Fetching download info on port: 42017
+debug 2025/02/07 16:40:36 Fetching download info on port: 45225
+debug 2025/02/07 16:40:36 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:36 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: 71.28 GB
+Downloaded: 20.39 MB
+Speed: 2.38 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:39 Fetching download info on port: 45225
+debug 2025/02/07 16:40:39 Fetching download info on port: 42017
+debug 2025/02/07 16:40:39 • Top.Gear.Polar.Special.HDTV.XviD-BiA.avi
+Size: 698.86 MB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:39 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: 71.28 GB
+Downloaded: 29.28 MB
+Speed: 2.71 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:40:43 Download state loaded successfully.
+debug 2025/02/07 16:40:46 Fetching download info on port: 41817
+debug 2025/02/07 16:40:46 Error sending request: Post "http://localhost:41817/jsonrpc": dial tcp [::1]:41817: connect: connection refused
+debug 2025/02/07 16:40:46 Error fetching download info for Top.Gear.Polar.Special.HDTV.XviD-BiA.avi (Port: 41817): Post "http://localhost:41817/jsonrpc": dial tcp [::1]:41817: connect: connection refused
+debug 2025/02/07 16:40:46 couldn't kill process: exit status 1
+debug 2025/02/07 16:41:39 Download state saved successfully.
+debug 2025/02/07 16:41:40 Download state loaded successfully.
+debug 2025/02/07 16:41:46 Running command: aria2c --enable-rpc=true --rpc-listen-port=42659 --dir /home/punff/Downloads/Sailor/BBC_Top_Gear_2009_Bolivia_Special_720p_x264_AAC_HDTV_MVGroup.org magnet:?xt=urn:btih:C4A2131FE86D383C82854DC21F9822D6522F1E6E&dn=BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org&tr=&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
+debug 2025/02/07 16:41:49 Fetching download info on port: 42659
+debug 2025/02/07 16:41:49 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:41:49 Running command: aria2c --enable-rpc=true --rpc-listen-port=41613 --dir /home/punff/Downloads/Sailor/BBC_Top_Gear_2014_Patagonia_Special_720p_x264_AAC_HDTV_MVGroup.o magnet:?xt=urn:btih:D1DE3E91980475865E5695DF43D03E347F46FE1B&dn=BBC Top Gear 2014 Patagonia Special 720p x264 AAC HDTV MVGroup.o&tr=&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
+debug 2025/02/07 16:41:52 Fetching download info on port: 41613
+debug 2025/02/07 16:41:52 Fetching download info on port: 42659
+debug 2025/02/07 16:41:52 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 10.72 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:41:52 • BBC Top Gear 2014 Patagonia Special 720p x264 AAC HDTV MVGroup.o
+Size: 3.35 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:41:55 Fetching download info on port: 41613
+debug 2025/02/07 16:41:55 Fetching download info on port: 42659
+debug 2025/02/07 16:41:55 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:41:55 • BBC Top Gear 2014 Patagonia Special 720p x264 AAC HDTV MVGroup.o
+Size: 3.35 GB
+Downloaded: 16.91 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:41:58 Fetching download info on port: 41613
+debug 2025/02/07 16:41:58 Fetching download info on port: 42659
+debug 2025/02/07 16:41:58 • BBC Top Gear 2014 Patagonia Special 720p x264 AAC HDTV MVGroup.o
+Size: 3.35 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:41:58 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:01 Fetching download info on port: 41613
+debug 2025/02/07 16:42:01 Fetching download info on port: 42659
+debug 2025/02/07 16:42:01 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 608.00 KB
+Speed: 301.59 KB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:01 • BBC Top Gear 2014 Patagonia Special 720p x264 AAC HDTV MVGroup.o
+Size: 3.35 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:04 Fetching download info on port: 41613
+debug 2025/02/07 16:42:04 Fetching download info on port: 42659
+debug 2025/02/07 16:42:04 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 3.27 MB
+Speed: 666.53 KB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:04 • BBC Top Gear 2014 Patagonia Special 720p x264 AAC HDTV MVGroup.o
+Size: 3.35 GB
+Downloaded: 1.56 MB
+Speed: 551.17 KB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:07 Fetching download info on port: 41613
+debug 2025/02/07 16:42:07 Fetching download info on port: 42659
+debug 2025/02/07 16:42:07 • BBC Top Gear 2014 Patagonia Special 720p x264 AAC HDTV MVGroup.o
+Size: 3.35 GB
+Downloaded: 3.61 MB
+Speed: 636.13 KB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:07 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 8.84 MB
+Speed: 1.10 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:10 Fetching download info on port: 41613
+debug 2025/02/07 16:42:10 Fetching download info on port: 42659
+debug 2025/02/07 16:42:10 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 15.03 MB
+Speed: 1.48 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:10 • BBC Top Gear 2014 Patagonia Special 720p x264 AAC HDTV MVGroup.o
+Size: 3.35 GB
+Downloaded: 5.75 MB
+Speed: 667.78 KB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:13 Fetching download info on port: 41613
+debug 2025/02/07 16:42:13 Fetching download info on port: 42659
+debug 2025/02/07 16:42:13 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 19.86 MB
+Speed: 1.80 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:13 • BBC Top Gear 2014 Patagonia Special 720p x264 AAC HDTV MVGroup.o
+Size: 3.35 GB
+Downloaded: 8.72 MB
+Speed: 801.86 KB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:16 Fetching download info on port: 41613
+debug 2025/02/07 16:42:16 Fetching download info on port: 42659
+debug 2025/02/07 16:42:16 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 24.50 MB
+Speed: 1.80 MB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:16 • BBC Top Gear 2014 Patagonia Special 720p x264 AAC HDTV MVGroup.o
+Size: 3.35 GB
+Downloaded: 11.94 MB
+Speed: 913.96 KB/s
+Status: active
+Time: 
+debug 2025/02/07 16:42:16 aria2c finished with error: exit status 7
+debug 2025/02/07 16:42:19 aria2c finished with error: exit status 7
+debug 2025/02/07 16:43:25 Download state saved successfully.
+debug 2025/02/07 16:43:26 Download state loaded successfully.
+debug 2025/02/07 16:44:34 Download state saved successfully.
+debug 2025/02/07 16:44:35 Download state loaded successfully.
+debug 2025/02/07 16:46:23 Download state saved successfully.
+debug 2025/02/07 16:46:25 Download state loaded successfully.
+debug 2025/02/07 16:46:43 Download state saved successfully.
+debug 2025/02/07 16:46:44 Download state loaded successfully.
+debug 2025/02/07 16:46:46 Download state saved successfully.
+debug 2025/02/07 16:47:53 Download state loaded successfully.
+debug 2025/02/07 16:49:14 Download state saved successfully.
+debug 2025/02/07 16:53:13 Download state loaded successfully.
+debug 2025/02/07 16:53:24 Download state saved successfully.
+debug 2025/02/07 16:53:31 Download state loaded successfully.
+debug 2025/02/07 16:56:02 Download state saved successfully.
+debug 2025/02/07 16:56:03 Download state loaded successfully.
+debug 2025/02/07 16:58:43 Download state saved successfully.
+debug 2025/02/07 16:58:44 Download state loaded successfully.
+debug 2025/02/07 17:00:09 Download state saved successfully.
+debug 2025/02/07 17:00:09 Download state loaded successfully.
+debug 2025/02/07 17:00:35 Download state saved successfully.
+debug 2025/02/07 17:00:36 Download state loaded successfully.
+debug 2025/02/07 17:01:21 Download state saved successfully.
+debug 2025/02/07 17:01:22 Download state loaded successfully.
+debug 2025/02/07 17:01:49 Download state saved successfully.
+debug 2025/02/07 17:04:38 Download state loaded successfully.
+debug 2025/02/07 17:04:56 Download state saved successfully.
+debug 2025/02/07 17:05:34 Download state loaded successfully.
+debug 2025/02/07 17:05:38 Couldn't find free port: listen udp :0: address :0: unexpected address type
+debug 2025/02/07 17:06:01 Download state saved successfully.
+debug 2025/02/07 17:06:02 Download state loaded successfully.
+debug 2025/02/07 17:06:05 Download state saved successfully.
+debug 2025/02/07 17:06:11 Download state loaded successfully.
+debug 2025/02/07 17:06:15 Running command: aria2c --enable-rpc=true --rpc-listen-port=32951 --dir /home/punff/Downloads/Sailor/BBC_Top_Gear_2009_Bolivia_Special_720p_x264_AAC_HDTV_MVGroup.org magnet:?xt=urn:btih:C4A2131FE86D383C82854DC21F9822D6522F1E6E&dn=BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org&tr=&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
+debug 2025/02/07 17:06:17 Fetching download info on port: 32951
+debug 2025/02/07 17:06:17 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 17:06:20 Fetching download info on port: 32951
+debug 2025/02/07 17:06:20 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 0.00 KB
+Speed: 0 B/s
+Status: active
+Time: 
+debug 2025/02/07 17:06:22 Download state saved successfully.
+debug 2025/02/07 17:06:23 Download state loaded successfully.
+debug 2025/02/07 17:06:26 Fetching download info on port: 32951
+debug 2025/02/07 17:06:26 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 784.00 KB
+Speed: 509.75 KB/s
+Status: active
+Time: 
+debug 2025/02/07 17:06:29 Fetching download info on port: 32951
+debug 2025/02/07 17:06:29 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 2.75 MB
+Speed: 620.67 KB/s
+Status: active
+Time: 
+debug 2025/02/07 17:06:32 Fetching download info on port: 32951
+debug 2025/02/07 17:06:32 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 5.20 MB
+Speed: 706.91 KB/s
+Status: active
+Time: 
+debug 2025/02/07 17:06:35 Fetching download info on port: 32951
+debug 2025/02/07 17:06:35 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 7.52 MB
+Speed: 755.11 KB/s
+Status: active
+Time: 
+debug 2025/02/07 17:06:38 Fetching download info on port: 32951
+debug 2025/02/07 17:06:38 • BBC Top Gear 2009 Bolivia Special 720p x264 AAC HDTV MVGroup.org
+Size: 2.12 GB
+Downloaded: 13.72 MB
+Speed: 1.19 MB/s
+Status: active
+Time: 
+debug 2025/02/07 17:07:12 Download state saved successfully.
+debug 2025/02/08 09:37:53 Error loading Download data: json: cannot unmarshal number 58.95 MB into Go struct field Torrent.size of type int64
+debug 2025/02/08 09:38:04 Error loading Download data: json: cannot unmarshal number 58.95 MB into Go struct field Torrent.size of type int64
+debug 2025/02/08 09:41:15 Download state loaded successfully.
+debug 2025/02/08 09:41:23 Running command: aria2c --enable-rpc=true --rpc-listen-port=46061 --dir /home/punff/Downloads/Sailor/Top_Gear___(BBC_-_Seasons_1_to_17_-_Complete) magnet:?xt=urn:btih:ADBCFAA5F080B14130B0C3C0C6186520D57B7F63&dn=Top Gear   (BBC - Seasons 1 to 17 - Complete)&tr=&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
+debug 2025/02/08 09:41:24 Fetching download info on port: 46061
+debug 2025/02/08 09:41:24 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:27 Fetching download info on port: 46061
+debug 2025/02/08 09:41:27 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:30 Fetching download info on port: 46061
+debug 2025/02/08 09:41:30 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:33 Fetching download info on port: 46061
+debug 2025/02/08 09:41:33 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:36 Fetching download info on port: 46061
+debug 2025/02/08 09:41:36 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:39 Fetching download info on port: 46061
+debug 2025/02/08 09:41:39 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:42 Fetching download info on port: 46061
+debug 2025/02/08 09:41:42 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:45 Fetching download info on port: 46061
+debug 2025/02/08 09:41:45 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:48 Fetching download info on port: 46061
+debug 2025/02/08 09:41:48 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:51 Fetching download info on port: 46061
+debug 2025/02/08 09:41:51 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:54 Fetching download info on port: 46061
+debug 2025/02/08 09:41:54 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:41:57 Fetching download info on port: 46061
+debug 2025/02/08 09:41:57 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:00 Fetching download info on port: 46061
+debug 2025/02/08 09:42:00 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:03 Fetching download info on port: 46061
+debug 2025/02/08 09:42:03 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:06 Fetching download info on port: 46061
+debug 2025/02/08 09:42:06 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:09 Fetching download info on port: 46061
+debug 2025/02/08 09:42:09 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:12 Fetching download info on port: 46061
+debug 2025/02/08 09:42:12 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:15 Fetching download info on port: 46061
+debug 2025/02/08 09:42:15 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:18 Fetching download info on port: 46061
+debug 2025/02/08 09:42:18 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:21 Fetching download info on port: 46061
+debug 2025/02/08 09:42:21 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:24 Fetching download info on port: 46061
+debug 2025/02/08 09:42:24 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:27 Fetching download info on port: 46061
+debug 2025/02/08 09:42:27 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:30 Fetching download info on port: 46061
+debug 2025/02/08 09:42:30 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:33 Fetching download info on port: 46061
+debug 2025/02/08 09:42:33 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:36 Fetching download info on port: 46061
+debug 2025/02/08 09:42:36 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:39 Fetching download info on port: 46061
+debug 2025/02/08 09:42:39 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:42 Fetching download info on port: 46061
+debug 2025/02/08 09:42:42 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:45 Fetching download info on port: 46061
+debug 2025/02/08 09:42:45 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:48 Fetching download info on port: 46061
+debug 2025/02/08 09:42:48 • Top Gear   (BBC - Seasons 1 to 17 - Complete)
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:42:51 aria2c finished with error: exit status 7
+debug 2025/02/08 09:43:00 Running command: aria2c --enable-rpc=true --rpc-listen-port=46137 --dir /home/punff/Downloads/Sailor/Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup magnet:?xt=urn:btih:3AED1D759D6EDF37761E886FF2277FA4CF164C3D&dn=Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup&tr=&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
+debug 2025/02/08 09:43:00 Fetching download info on port: 46137
+debug 2025/02/08 09:43:00 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:03 Fetching download info on port: 46137
+debug 2025/02/08 09:43:03 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:06 Fetching download info on port: 46137
+debug 2025/02/08 09:43:06 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:09 Fetching download info on port: 46137
+debug 2025/02/08 09:43:09 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:12 Fetching download info on port: 46137
+debug 2025/02/08 09:43:12 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:15 Fetching download info on port: 46137
+debug 2025/02/08 09:43:15 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:18 Fetching download info on port: 46137
+debug 2025/02/08 09:43:18 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:21 Fetching download info on port: 46137
+debug 2025/02/08 09:43:21 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:24 Fetching download info on port: 46137
+debug 2025/02/08 09:43:24 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:27 Fetching download info on port: 46137
+debug 2025/02/08 09:43:27 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:30 Fetching download info on port: 46137
+debug 2025/02/08 09:43:30 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:33 Fetching download info on port: 46137
+debug 2025/02/08 09:43:33 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:43:36 Fetching download info on port: 46137
+debug 2025/02/08 09:43:36 • Top.Gear.2007.Botswana.Special.720p.HDTV.x264-MVGroup
+Size: N/A
+Downloaded: 0.00 KB
+Speed: 0 B/s
+ETA: N/A
+Status: active
+debug 2025/02/08 09:46:17 Download state loaded successfully.
+debug 2025/02/08 09:51:56 Download state saved successfully.
+debug 2025/02/08 09:51:57 Download state loaded successfully.
+debug 2025/02/08 09:52:18 Download state saved successfully.
+debug 2025/02/08 09:52:45 Download state loaded successfully.
+debug 2025/02/08 09:56:36 Download state saved successfully.
+debug 2025/02/08 09:56:37 Download state loaded successfully.
+debug 2025/02/08 09:57:03 Download state saved successfully.
+debug 2025/02/08 09:57:04 Download state loaded successfully.
+debug 2025/02/08 09:57:14 Download state saved successfully.
+debug 2025/02/08 09:57:15 Download state loaded successfully.
+debug 2025/02/08 09:58:12 Download state saved successfully.
+debug 2025/02/08 09:58:13 Download state loaded successfully.
+debug 2025/02/08 09:59:26 Download state saved successfully.
+debug 2025/02/08 09:59:27 Download state loaded successfully.
+debug 2025/02/08 09:59:36 Download state saved successfully.
+debug 2025/02/08 09:59:36 Download state loaded successfully.
+debug 2025/02/08 10:00:59 Download state saved successfully.
+debug 2025/02/08 10:01:00 Download state loaded successfully.
+debug 2025/02/08 10:02:23 Download state saved successfully.
+debug 2025/02/08 10:02:24 Download state loaded successfully.
+debug 2025/02/08 10:02:46 Download state saved successfully.
+debug 2025/02/08 10:02:47 Download state loaded successfully.
+debug 2025/02/08 10:04:44 Download state saved successfully.
+debug 2025/02/08 10:04:45 Download state loaded successfully.
+debug 2025/02/08 10:05:23 Download state saved successfully.
+debug 2025/02/08 10:05:24 Download state loaded successfully.
+debug 2025/02/08 10:05:36 Download state saved successfully.
+debug 2025/02/08 10:06:57 Download state loaded successfully.
+debug 2025/02/08 10:07:24 Download state saved successfully.
+debug 2025/02/08 10:07:25 Download state loaded successfully.
+debug 2025/02/08 10:07:30 Download state saved successfully.
+debug 2025/02/08 10:07:30 Download state loaded successfully.
+debug 2025/02/08 10:07:40 Download state saved successfully.
+debug 2025/02/08 10:07:41 Download state loaded successfully.
+debug 2025/02/08 10:09:46 Download state saved successfully.
+debug 2025/02/08 10:09:47 Download state loaded successfully.
+debug 2025/02/08 10:10:06 Download state saved successfully.
+debug 2025/02/08 10:10:10 Download state loaded successfully.
+debug 2025/02/08 10:11:35 Download state saved successfully.
+debug 2025/02/08 10:11:36 Download state loaded successfully.
+debug 2025/02/08 10:11:40 Download state saved successfully.
+debug 2025/02/08 10:12:43 Download state loaded successfully.
+debug 2025/02/08 10:12:57 Download state saved successfully.
+debug 2025/02/08 10:12:58 Download state loaded successfully.
+debug 2025/02/08 10:14:15 Download state saved successfully.
+debug 2025/02/08 10:14:16 Download state loaded successfully.
+debug 2025/02/08 10:14:33 Download state saved successfully.
+debug 2025/02/08 10:14:34 Download state loaded successfully.
+debug 2025/02/08 10:14:41 Download state saved successfully.
+debug 2025/02/08 10:14:42 Download state loaded successfully.
+debug 2025/02/08 10:14:50 Download state saved successfully.
+debug 2025/02/08 10:14:51 Download state loaded successfully.
+debug 2025/02/08 10:15:55 Download state saved successfully.
+debug 2025/02/08 10:15:56 Download state loaded successfully.
+debug 2025/02/08 10:16:04 Download state saved successfully.
+debug 2025/02/08 10:16:05 Download state loaded successfully.
+debug 2025/02/08 10:16:21 Download state saved successfully.
+debug 2025/02/08 10:16:22 Download state loaded successfully.
+debug 2025/02/08 10:16:55 Download state saved successfully.
+debug 2025/02/08 10:16:56 Download state loaded successfully.
+debug 2025/02/08 10:17:03 Download state saved successfully.
+debug 2025/02/08 10:17:04 Download state loaded successfully.
+debug 2025/02/08 10:17:49 Download state saved successfully.
+debug 2025/02/08 10:17:50 Download state loaded successfully.
+debug 2025/02/08 10:18:05 Download state saved successfully.
+debug 2025/02/08 10:18:06 Download state loaded successfully.
+debug 2025/02/08 10:18:15 Download state saved successfully.
+debug 2025/02/08 10:18:16 Download state loaded successfully.
+debug 2025/02/08 10:19:21 Download state saved successfully.
+debug 2025/02/08 10:19:22 Download state loaded successfully.
+debug 2025/02/08 10:19:32 Download state saved successfully.
+debug 2025/02/08 10:19:33 Download state loaded successfully.
+debug 2025/02/08 10:19:49 Download state saved successfully.
+debug 2025/02/08 10:19:50 Download state loaded successfully.
+debug 2025/02/08 10:27:21 Download state saved successfully.
+debug 2025/02/08 10:27:22 Download state loaded successfully.
+debug 2025/02/08 10:28:24 Download state saved successfully.
+debug 2025/02/08 10:28:25 Download state loaded successfully.
+debug 2025/02/08 10:29:08 Download state saved successfully.
+debug 2025/02/08 10:29:09 Download state loaded successfully.
+debug 2025/02/08 10:29:37 Download state saved successfully.
+debug 2025/02/08 10:29:38 Download state loaded successfully.
+debug 2025/02/08 10:30:28 Download state saved successfully.
+debug 2025/02/08 10:30:29 Download state loaded successfully.
+debug 2025/02/08 10:30:46 Download state saved successfully.
+debug 2025/02/08 10:30:47 Download state loaded successfully.
+debug 2025/02/08 10:30:57 Download state saved successfully.
+debug 2025/02/08 10:30:58 Download state loaded successfully.
+debug 2025/02/08 10:31:10 Download state saved successfully.
+debug 2025/02/08 10:31:11 Download state loaded successfully.
+debug 2025/02/08 10:31:50 Download state saved successfully.
+debug 2025/02/08 10:31:51 Download state loaded successfully.
+debug 2025/02/08 10:32:41 Download state saved successfully.
+debug 2025/02/08 10:32:42 Download state loaded successfully.
